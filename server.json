@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.coghelm/coghelm",
+  "title": "Coghelm: AI tools for leaders",
+  "description": "Curated AI tools for leaders: recommend and compare tools by job, plus 1:1 and board templates.",
+  "repository": {
+    "url": "https://github.com/thelconsulting/coghelm-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://coghelm.com/developers/",
+  "version": "1.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://coghelm.com/mcp"
+    }
+  ]
+}

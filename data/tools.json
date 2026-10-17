@@ -1,0 +1,742 @@
+{
+  "site": {
+    "name": "Coghelm",
+    "url": "https://coghelm.com",
+    "tagline": "AI tools for the jobs leaders actually do.",
+    "description": "A curated directory of AI tools, organized by the job you need done."
+  },
+  "categories": [
+    {
+      "slug": "board-meeting-prep",
+      "name": "Board & Meeting Prep",
+      "desc": "Record, transcribe, and summarize meetings; prep agendas and board briefs."
+    },
+    {
+      "slug": "grant-proposal-writing",
+      "name": "Grant & Proposal Writing",
+      "desc": "Draft, refine, and manage grant applications and proposals."
+    },
+    {
+      "slug": "hiring",
+      "name": "Hiring",
+      "desc": "Write job descriptions, screen candidates, and run interviews."
+    },
+    {
+      "slug": "research-analysis",
+      "name": "Research & Analysis",
+      "desc": "Find sources, read papers, and synthesize evidence fast."
+    },
+    {
+      "slug": "writing-comms",
+      "name": "Writing & Comms",
+      "desc": "Draft memos, emails, and updates; polish tone and clarity."
+    },
+    {
+      "slug": "presentations",
+      "name": "Presentations",
+      "desc": "Turn ideas into slide decks and visual stories."
+    },
+    {
+      "slug": "data-spreadsheets",
+      "name": "Data & Spreadsheets",
+      "desc": "Analyze data, write formulas, and build charts without code."
+    },
+    {
+      "slug": "project-management",
+      "name": "Project Management",
+      "desc": "Plan work, track tasks, and keep teams aligned."
+    },
+    {
+      "slug": "coding-engineering",
+      "name": "Coding & Engineering",
+      "desc": "AI pair programmers and app builders."
+    },
+    {
+      "slug": "audio-music-podcasting",
+      "name": "Audio, Music & Podcasting",
+      "desc": "Edit audio, generate music, and produce podcasts."
+    }
+  ],
+  "tools": [
+    {
+      "slug": "otter",
+      "name": "Otter.ai",
+      "url": "https://otter.ai",
+      "category": "board-meeting-prep",
+      "desc": "AI meeting assistant that records, transcribes, and summarizes meetings.",
+      "added": "2026-10-12"
+    },
+    {
+      "slug": "fireflies",
+      "name": "Fireflies.ai",
+      "url": "https://fireflies.ai",
+      "category": "board-meeting-prep",
+      "desc": "AI notetaker that transcribes, summarizes, and searches your meetings.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "fathom",
+      "name": "Fathom",
+      "url": "https://fathom.video",
+      "category": "board-meeting-prep",
+      "desc": "Free AI notetaker for Zoom, Google Meet, and Teams calls.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "granola",
+      "name": "Granola",
+      "url": "https://granola.ai",
+      "category": "board-meeting-prep",
+      "desc": "AI notepad that enhances your own meeting notes with the transcript.",
+      "added": "2026-10-11"
+    },
+    {
+      "slug": "grantable",
+      "name": "Grantable",
+      "url": "https://grantable.co",
+      "category": "grant-proposal-writing",
+      "desc": "AI grant-writing assistant that drafts proposals from your past content.",
+      "added": "2026-10-10"
+    },
+    {
+      "slug": "instrumentl",
+      "name": "Instrumentl",
+      "url": "https://www.instrumentl.com",
+      "category": "grant-proposal-writing",
+      "desc": "Grant discovery and tracking platform with AI-assisted grant matching.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "loopio",
+      "name": "Loopio",
+      "url": "https://loopio.com",
+      "category": "grant-proposal-writing",
+      "desc": "RFP response software that uses AI to draft answers from a content library.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "textio",
+      "name": "Textio",
+      "url": "https://textio.com",
+      "category": "hiring",
+      "desc": "AI writing guidance for inclusive job posts and performance feedback.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "metaview",
+      "name": "Metaview",
+      "url": "https://www.metaview.ai",
+      "category": "hiring",
+      "desc": "AI notes and insights for recruiting interviews.",
+      "added": "2026-10-09"
+    },
+    {
+      "slug": "brighthire",
+      "name": "BrightHire",
+      "url": "https://brighthire.com",
+      "category": "hiring",
+      "desc": "Interview intelligence platform that records and summarizes interviews.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "elicit",
+      "name": "Elicit",
+      "url": "https://elicit.com",
+      "category": "research-analysis",
+      "desc": "AI research assistant that finds and summarizes academic papers.",
+      "added": "2026-10-12"
+    },
+    {
+      "slug": "consensus",
+      "name": "Consensus",
+      "url": "https://consensus.app",
+      "category": "research-analysis",
+      "desc": "AI search engine that answers questions from peer-reviewed research.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "notebooklm",
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google",
+      "category": "research-analysis",
+      "desc": "Google's AI notebook that answers questions grounded in your documents.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "scite",
+      "name": "scite",
+      "url": "https://scite.ai",
+      "category": "research-analysis",
+      "desc": "Shows how research papers have been cited, supporting or contrasting.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com",
+      "category": "writing-comms",
+      "desc": "OpenAI's general-purpose AI assistant for drafting, analysis, and Q&A.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "grok",
+      "name": "Grok",
+      "url": "https://grok.com",
+      "category": "writing-comms",
+      "desc": "xAI's AI assistant with real-time knowledge from the web and X.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "grammarly",
+      "name": "Grammarly",
+      "url": "https://www.grammarly.com",
+      "category": "writing-comms",
+      "desc": "AI writing assistant for grammar, clarity, and tone.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "wordtune",
+      "name": "Wordtune",
+      "url": "https://www.wordtune.com",
+      "category": "writing-comms",
+      "desc": "AI tool that rewrites sentences for clarity and tone.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "beautiful-ai",
+      "name": "Beautiful.ai",
+      "url": "https://www.beautiful.ai",
+      "category": "presentations",
+      "desc": "Presentation software with AI-driven smart slide templates.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "pitch",
+      "name": "Pitch",
+      "url": "https://pitch.com",
+      "category": "presentations",
+      "desc": "Collaborative presentation software with AI deck generation.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "julius",
+      "name": "Julius AI",
+      "url": "https://julius.ai",
+      "category": "data-spreadsheets",
+      "desc": "Chat with your data to analyze spreadsheets and create charts.",
+      "added": "2026-10-07"
+    },
+    {
+      "slug": "rows",
+      "name": "Rows",
+      "url": "https://rows.com",
+      "category": "data-spreadsheets",
+      "desc": "Spreadsheet with a built-in AI analyst.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "formula-bot",
+      "name": "Formula Bot",
+      "url": "https://www.formulabot.com",
+      "category": "data-spreadsheets",
+      "desc": "Generates Excel and Google Sheets formulas from plain English.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "notion",
+      "name": "Notion",
+      "url": "https://www.notion.so",
+      "category": "project-management",
+      "desc": "Connected workspace for docs and projects with built-in Notion AI.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "asana",
+      "name": "Asana",
+      "url": "https://asana.com",
+      "category": "project-management",
+      "desc": "Work management platform with AI features for planning and status.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "clickup",
+      "name": "ClickUp",
+      "url": "https://clickup.com",
+      "category": "project-management",
+      "desc": "All-in-one productivity platform with ClickUp Brain AI.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "linear",
+      "name": "Linear",
+      "url": "https://linear.app",
+      "category": "project-management",
+      "desc": "Issue tracking and project planning for product teams, with AI features.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "motion",
+      "name": "Motion",
+      "url": "https://www.usemotion.com",
+      "category": "project-management",
+      "desc": "AI calendar and task manager that auto-schedules your day.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "github-copilot",
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "category": "coding-engineering",
+      "desc": "AI pair programmer that suggests code in your editor.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "cursor",
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "category": "coding-engineering",
+      "desc": "AI code editor for writing and editing code with AI agents.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "replit",
+      "name": "Replit",
+      "url": "https://replit.com",
+      "category": "coding-engineering",
+      "desc": "Browser-based platform to build and deploy apps with an AI agent.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "v0",
+      "name": "v0",
+      "url": "https://v0.app",
+      "category": "coding-engineering",
+      "desc": "Vercel's AI tool that generates UI and full-stack apps from prompts.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "descript",
+      "name": "Descript",
+      "url": "https://www.descript.com",
+      "category": "audio-music-podcasting",
+      "desc": "Edit audio and video by editing the transcript.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "riverside",
+      "name": "Riverside",
+      "url": "https://riverside.fm",
+      "category": "audio-music-podcasting",
+      "desc": "Remote podcast and video recording studio with AI editing tools.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "adobe-podcast",
+      "name": "Adobe Podcast",
+      "url": "https://podcast.adobe.com",
+      "category": "audio-music-podcasting",
+      "desc": "AI speech enhancement that makes recordings sound studio-quality.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "suno",
+      "name": "Suno",
+      "url": "https://suno.com",
+      "category": "audio-music-podcasting",
+      "desc": "Generates songs with vocals and instrumentation from text prompts.",
+      "added": "2026-10-09"
+    },
+    {
+      "slug": "elevenlabs",
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io",
+      "category": "audio-music-podcasting",
+      "desc": "AI voice generation, text-to-speech, and dubbing.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "lalal",
+      "name": "LALAL.AI",
+      "url": "https://www.lalal.ai",
+      "category": "audio-music-podcasting",
+      "desc": "AI stem splitter that separates vocals and instruments from tracks.",
+      "added": "2026-10-01"
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "category": "writing-comms",
+      "desc": "Anthropic's AI assistant for long-document analysis, drafting, and reasoning.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "category": "research-analysis",
+      "desc": "AI answer engine that searches the web and cites its sources.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "gamma",
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "category": "presentations",
+      "desc": "AI tool that generates presentations, documents, and web pages from a prompt.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "lovable",
+      "name": "Lovable",
+      "url": "https://lovable.dev",
+      "category": "coding-engineering",
+      "desc": "AI app builder that turns natural-language descriptions into working web apps.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "tableau",
+      "name": "Tableau",
+      "url": "https://www.tableau.com",
+      "category": "data-spreadsheets",
+      "desc": "Analytics and visualization platform with AI-assisted insights from Salesforce.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "gemini",
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "category": "research-analysis",
+      "desc": "Google's AI assistant for research, writing, and analysis across Google apps.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com",
+      "category": "writing-comms",
+      "desc": "Microsoft's AI assistant for chat, search, and drafting, integrated with Microsoft 365.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "jasper",
+      "name": "Jasper",
+      "url": "https://www.jasper.ai",
+      "category": "writing-comms",
+      "desc": "AI content platform for marketing teams, with brand voice controls.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "writer",
+      "name": "Writer",
+      "url": "https://writer.com",
+      "category": "writing-comms",
+      "desc": "Enterprise generative AI platform for on-brand writing and workflows.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "superhuman",
+      "name": "Superhuman",
+      "url": "https://superhuman.com",
+      "category": "writing-comms",
+      "desc": "Fast email client with AI drafting, summaries, and triage.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "read-ai",
+      "name": "Read AI",
+      "url": "https://www.read.ai",
+      "category": "board-meeting-prep",
+      "desc": "AI meeting assistant that produces summaries, action items, and meeting analytics.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "tldv",
+      "name": "tl;dv",
+      "url": "https://tldv.io",
+      "category": "board-meeting-prep",
+      "desc": "AI meeting recorder that transcribes and summarizes Zoom, Meet, and Teams calls.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "avoma",
+      "name": "Avoma",
+      "url": "https://www.avoma.com",
+      "category": "board-meeting-prep",
+      "desc": "AI meeting assistant with notes, scheduling, and conversation intelligence.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "fellow",
+      "name": "Fellow",
+      "url": "https://fellow.ai",
+      "category": "board-meeting-prep",
+      "desc": "Meeting management tool with collaborative agendas and AI meeting notes.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "hirevue",
+      "name": "HireVue",
+      "url": "https://www.hirevue.com",
+      "category": "hiring",
+      "desc": "Hiring platform with video interviewing, assessments, and AI-assisted screening.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "paradox",
+      "name": "Paradox",
+      "url": "https://www.paradox.ai",
+      "category": "hiring",
+      "desc": "Conversational AI recruiting assistant that automates screening and scheduling.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "gem",
+      "name": "Gem",
+      "url": "https://www.gem.com",
+      "category": "hiring",
+      "desc": "AI-powered recruiting platform combining CRM, sourcing, and analytics.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "ashby",
+      "name": "Ashby",
+      "url": "https://www.ashbyhq.com",
+      "category": "hiring",
+      "desc": "All-in-one recruiting platform with ATS, scheduling, analytics, and AI features.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "semantic-scholar",
+      "name": "Semantic Scholar",
+      "url": "https://www.semanticscholar.org",
+      "category": "research-analysis",
+      "desc": "Free AI-powered search engine for scientific literature from Ai2.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "researchrabbit",
+      "name": "ResearchRabbit",
+      "url": "https://www.researchrabbit.ai",
+      "category": "research-analysis",
+      "desc": "Literature discovery tool that maps related papers and authors.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "canva",
+      "name": "Canva",
+      "url": "https://www.canva.com",
+      "category": "presentations",
+      "desc": "Design platform with AI tools for presentations, graphics, and documents.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "prezi",
+      "name": "Prezi",
+      "url": "https://prezi.com",
+      "category": "presentations",
+      "desc": "Presentation software with AI-assisted, non-linear visual storytelling.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "plus-ai",
+      "name": "Plus AI",
+      "url": "https://plusai.com",
+      "category": "presentations",
+      "desc": "AI presentation maker that works inside Google Slides and PowerPoint.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "hex",
+      "name": "Hex",
+      "url": "https://hex.tech",
+      "category": "data-spreadsheets",
+      "desc": "Collaborative data workspace with SQL, Python, and AI-assisted analysis.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "akkio",
+      "name": "Akkio",
+      "url": "https://www.akkio.com",
+      "category": "data-spreadsheets",
+      "desc": "No-code AI platform for data analysis, forecasting, and reporting.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "monday",
+      "name": "monday.com",
+      "url": "https://monday.com",
+      "category": "project-management",
+      "desc": "Work management platform with AI features for projects and workflows.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "reclaim",
+      "name": "Reclaim.ai",
+      "url": "https://reclaim.ai",
+      "category": "project-management",
+      "desc": "AI calendar assistant that schedules tasks, habits, and focus time.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "miro",
+      "name": "Miro",
+      "url": "https://miro.com",
+      "category": "project-management",
+      "desc": "Visual collaboration whiteboard with AI for brainstorming and planning.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "coda",
+      "name": "Coda",
+      "url": "https://coda.io",
+      "category": "project-management",
+      "desc": "All-in-one doc combining text, tables, and automations, with AI built in.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "bolt",
+      "name": "Bolt",
+      "url": "https://bolt.new",
+      "category": "coding-engineering",
+      "desc": "Browser-based AI tool that builds and deploys full-stack web apps from prompts.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "udio",
+      "name": "Udio",
+      "url": "https://www.udio.com",
+      "category": "audio-music-podcasting",
+      "desc": "AI music generator that creates songs from text prompts.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "aiva",
+      "name": "AIVA",
+      "url": "https://www.aiva.ai",
+      "category": "audio-music-podcasting",
+      "desc": "AI music composition assistant for soundtracks and instrumental pieces.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "landr",
+      "name": "LANDR",
+      "url": "https://www.landr.com",
+      "category": "audio-music-podcasting",
+      "desc": "Music creation platform known for AI mastering, plus distribution and plugins.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "auphonic",
+      "name": "Auphonic",
+      "url": "https://auphonic.com",
+      "category": "audio-music-podcasting",
+      "desc": "Automatic audio post-production for leveling, noise reduction, and loudness.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "moises",
+      "name": "Moises",
+      "url": "https://moises.ai",
+      "category": "audio-music-podcasting",
+      "desc": "AI app for separating stems, detecting chords, and practicing music.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "deepl",
+      "name": "DeepL",
+      "url": "https://www.deepl.com",
+      "category": "writing-comms",
+      "desc": "AI translation and writing assistant known for natural-sounding results.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "zapier",
+      "name": "Zapier",
+      "url": "https://zapier.com",
+      "category": "project-management",
+      "desc": "Automation platform that connects apps and adds AI steps and agents to workflows.",
+      "added": "2026-10-13"
+    },
+    {
+      "slug": "krisp",
+      "name": "Krisp",
+      "url": "https://krisp.ai",
+      "category": "board-meeting-prep",
+      "desc": "Voice AI that cancels meeting noise and transcribes with bot-free notes and summaries.",
+      "added": "2026-10-14"
+    },
+    {
+      "slug": "plaud",
+      "name": "Plaud",
+      "url": "https://www.plaud.ai",
+      "category": "board-meeting-prep",
+      "desc": "AI note-taking for in-person talks, phone calls, and online meetings in one workflow.",
+      "added": "2026-10-14"
+    },
+    {
+      "slug": "shortwave",
+      "name": "Shortwave",
+      "url": "https://www.shortwave.com",
+      "category": "writing-comms",
+      "desc": "AI email client that organizes, drafts, searches, and schedules from a prompt.",
+      "added": "2026-10-14"
+    },
+    {
+      "slug": "wispr-flow",
+      "name": "Wispr Flow",
+      "url": "https://wisprflow.ai",
+      "category": "writing-comms",
+      "desc": "Voice-to-text dictation that turns speech into clear writing across apps.",
+      "added": "2026-10-14"
+    },
+    {
+      "slug": "coachense",
+      "name": "Coachense",
+      "url": "https://coachense.com",
+      "category": "hiring",
+      "desc": "AI leadership OS that helps managers run 1:1s, spot burnout, and develop teams.",
+      "added": "2026-10-14"
+    },
+    {
+      "slug": "lindy",
+      "name": "Lindy",
+      "url": "https://www.lindy.ai",
+      "category": "project-management",
+      "desc": "AI teammate that works in Slack, email, and meetings to clear inbox, prep, and finish real work.",
+      "added": "2026-10-15"
+    },
+    {
+      "slug": "manus",
+      "name": "Manus",
+      "url": "https://www.manus.im",
+      "category": "coding-engineering",
+      "desc": "Autonomous AI agent that plans and executes multi-step tasks and delivers finished work products.",
+      "added": "2026-10-15"
+    },
+    {
+      "slug": "morgen",
+      "name": "Morgen",
+      "url": "https://www.morgen.so",
+      "category": "project-management",
+      "desc": "AI daily planner that prioritizes tasks and time-blocks them across your calendars.",
+      "added": "2026-10-15"
+    },
+    {
+      "slug": "heygen",
+      "name": "HeyGen",
+      "url": "https://www.heygen.com",
+      "category": "presentations",
+      "desc": "AI video platform that turns scripts into lifelike avatar videos for presentations and training.",
+      "added": "2026-10-15"
+    },
+    {
+      "slug": "opusclip",
+      "name": "OpusClip",
+      "url": "https://www.opus.pro",
+      "category": "audio-music-podcasting",
+      "desc": "AI clipping tool that turns long podcasts and videos into short, captioned social clips.",
+      "added": "2026-10-15"
+    }
+  ]
+}

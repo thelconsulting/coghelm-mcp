@@ -1,0 +1,354 @@
+[
+ {
+  "slug": "running-1-1s",
+  "title": "AI for running 1:1s",
+  "short": "Running 1:1s",
+  "intro": "A good 1:1 belongs to your report, not to your notes. Use AI for the boring parts: capturing what was said, keeping a shared running agenda, and remembering follow-ups. Do not use it to score people. Our view: keep your own notes, and let AI fill in the gaps afterward.",
+  "top": "granola",
+  "topWhy": "Granola works with notes you type yourself and adds detail from the transcript, so you stay present in the conversation instead of handing it to a bot.",
+  "alts": [
+   "fellow",
+   "fathom",
+   "claude"
+  ],
+  "how": [
+   "Keep one running agenda per report so topics carry over week to week.",
+   "Jot 3-5 words per topic during the meeting. Let the tool expand them afterward.",
+   "Ask your report before recording, and skip recording for sensitive topics like health, pay, or conflict.",
+   "After the meeting, ask an assistant to pull out commitments for both of you. Check them before you share."
+  ],
+  "faq": [
+   [
+    "Should I record my 1:1s?",
+    "Only with your report's clear consent. Many leaders take notes without recording and don't record sensitive talks at all."
+   ],
+   [
+    "Can AI run my 1:1 for me?",
+    "No. AI can capture notes and track follow-ups, but trust, coaching, and judgment are your job."
+   ],
+   [
+    "What's the simplest setup?",
+    "A shared agenda doc plus one AI notetaker you already have access to. Add more only if you feel friction."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "hiring-an-engineer",
+  "title": "AI for hiring an engineer",
+  "short": "Hiring an engineer",
+  "intro": "Hiring is where AI saves the most time and causes the most harm when used carelessly. Use it to write clearer job posts, capture interviews accurately, and keep the process organized. Keep humans making the decisions, and follow the laws on automated hiring tools where you hire.",
+  "top": "metaview",
+  "topWhy": "Metaview focuses on interview notes, so interviewers can listen instead of typing, and debriefs start from what candidates actually said.",
+  "alts": [
+   "textio",
+   "ashby",
+   "brighthire",
+   "github-copilot"
+  ],
+  "how": [
+   "Draft the job post yourself, then use a writing-guidance tool to check for exclusionary or vague language.",
+   "Use the same structured questions for every candidate, and let an AI notetaker capture answers (tell candidates first).",
+   "Hold debriefs from the notes, not from memory, and write the hire/no-hire reasoning down.",
+   "For take-home or pairing exercises, decide upfront whether candidates may use AI coding assistants, and say so."
+  ],
+  "faq": [
+   [
+    "Is it legal to use AI in hiring?",
+    "It depends on where you hire. Some places regulate automated hiring decisions. Check with HR or legal, and don't let a tool make the decision on its own."
+   ],
+   [
+    "Should candidates be allowed to use AI in technical interviews?",
+    "That's your call, but say so upfront. Many teams now let candidates use AI because that's how the job is done."
+   ],
+   [
+    "Do I need a full recruiting platform?",
+    "Not for one or two hires. A notetaker plus a simple tracker is enough. Platforms like Ashby or Gem pay off at higher volume."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "writing-a-board-update",
+  "title": "AI for writing a board or exec update",
+  "short": "Board or exec update",
+  "intro": "A board update should be short, honest, and lead with what you need. AI is great at turning messy notes into a clean draft and at pointing out where you're vague. It should never invent numbers. You bring the facts and the judgment, and the assistant brings structure.",
+  "top": "claude",
+  "topWhy": "Claude handles long inputs well, so you can paste your notes, metrics, and last quarter's update and ask for a tight first draft in your own format.",
+  "alts": [
+   "chatgpt",
+   "gamma",
+   "grammarly",
+   "notebooklm"
+  ],
+  "how": [
+   "Start with a fixed structure: headline, numbers vs. plan, wins, misses, risks, asks.",
+   "Paste your raw notes and real figures, and tell the assistant not to add any number you didn't provide.",
+   "Ask it to play a skeptical board member and list the three questions they would ask, then answer them in the draft.",
+   "If you need slides, generate a first deck from the final text and then edit it by hand."
+  ],
+  "faq": [
+   [
+    "Is it safe to paste confidential data into an AI assistant?",
+    "Check your organization's policy and the tool's data settings first. Many organizations use business plans with stricter data terms for this."
+   ],
+   [
+    "How long should a board update be?",
+    "Short enough to read in a few minutes. Lead with the asks and the bad news, and link to details."
+   ],
+   [
+    "Can AI check my numbers?",
+    "It can flag inconsistencies, but verify every figure against the source yourself."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "planning-a-quarter-okrs",
+  "title": "AI for planning a quarter or OKRs",
+  "short": "Planning a quarter / OKRs",
+  "intro": "Quarterly planning fails from too many goals, not too few ideas. Use AI to challenge your draft: merge overlapping objectives, turn activities into measurable results, and stress-test capacity. Then put the plan in a tool your team already uses.",
+  "top": "chatgpt",
+  "topWhy": "A general-purpose assistant like ChatGPT is the fastest way to critique a draft OKR set, rewrite vague key results, and spot goals that are really tasks.",
+  "alts": [
+   "notion",
+   "linear",
+   "asana",
+   "miro"
+  ],
+  "how": [
+   "Write your draft objectives first, without AI, so the priorities are yours.",
+   "Ask the assistant to rewrite each key result so it's measurable, and to flag any that are really tasks.",
+   "Give it your team's rough capacity and ask what to cut. Then decide for yourself.",
+   "Move the final plan into your project tool and link each project to an objective."
+  ],
+  "faq": [
+   [
+    "How many OKRs should a team have?",
+    "Fewer than you think. Many teams aim for about three objectives with a few key results each."
+   ],
+   [
+    "Can AI set our goals?",
+    "It can suggest and critique, but priorities depend on context it doesn't have. Make the call yourself."
+   ],
+   [
+    "Which planning tool should we use?",
+    "The one your team already lives in. Switching tools mid-quarter usually costs more than it saves."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "running-better-meetings",
+  "title": "AI for running better meetings",
+  "short": "Running better meetings",
+  "intro": "The best meeting AI is often the one that removes the meeting. When you do meet, use AI to send a real agenda, capture decisions and action items, and share a summary so people who weren't there can skip it. Fewer, shorter, better-documented meetings beat smarter transcripts.",
+  "top": "fellow",
+  "topWhy": "Fellow combines collaborative agendas with AI meeting notes, which covers both halves of a good meeting: preparation and follow-through.",
+  "alts": [
+   "otter",
+   "read-ai",
+   "fathom",
+   "reclaim"
+  ],
+  "how": [
+   "No agenda, no meeting. Share it at least a day ahead with the decision you need.",
+   "Let an AI notetaker capture the discussion, and tell attendees it's running.",
+   "End with decisions and owners out loud, then check the AI's action items against them.",
+   "Use an AI calendar assistant to protect focus time so meetings don't take over the week."
+  ],
+  "faq": [
+   [
+    "Do AI notetakers replace a note owner?",
+    "They capture what was said, but someone should still confirm decisions and owners before the summary goes out."
+   ],
+   [
+    "Are bots in meetings a privacy problem?",
+    "They can be. Tell attendees, follow your organization's policy, and consider tools that don't join as a visible bot when that suits the setting."
+   ],
+   [
+    "How do I cut meeting time?",
+    "Replace status meetings with written updates, shorten default lengths, and cancel recurring meetings that no longer have an agenda."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "giving-feedback-performance-reviews",
+  "title": "AI for giving feedback and performance reviews",
+  "short": "Feedback and reviews",
+  "intro": "Feedback is a judgment call, and that judgment has to be yours. AI is useful for the writing: turning your rough notes into clear, specific language and catching vague or biased phrasing. It is not useful for deciding a rating. Our view: write what you actually saw first, then use AI to make it clearer and fairer, never to make it up.",
+  "top": "textio",
+  "topWhy": "Textio is built for performance feedback specifically, with writing guidance aimed at inclusive language, so it improves your words without pretending to know your report.",
+  "alts": [
+   "claude",
+   "grammarly",
+   "wordtune"
+  ],
+  "how": [
+   "Collect concrete examples through the review period: what happened, when, and the impact.",
+   "Draft the review yourself from those examples before opening any AI tool.",
+   "Ask an assistant to flag vague phrases, personality labels, or claims without an example. Remove personal or confidential details first.",
+   "Use a writing tool to tighten tone and clarity, then reread it as if you were the person receiving it.",
+   "Deliver the hard parts in conversation, not only in the document."
+  ],
+  "faq": [
+   [
+    "Can AI write my performance reviews?",
+    "It can help you phrase them, but the assessment has to come from your own observations. A review written without real examples reads as generic and is unfair to the person."
+   ],
+   [
+    "Is it OK to paste employee details into an AI assistant?",
+    "Check your organization's policy first. When in doubt, remove names and sensitive details, and never paste health, pay, or disciplinary information into tools your organization hasn't approved."
+   ],
+   [
+    "How does AI help with bias?",
+    "Some tools flag language patterns, but they cannot see the whole picture. Use them as a prompt to check your wording, then compare how you describe people doing similar work."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "onboarding-a-new-hire",
+  "title": "AI for onboarding a new hire",
+  "short": "Onboarding a new hire",
+  "intro": "Most onboarding fails because knowledge lives in people's heads and scattered docs. AI helps you assemble it into one place and lets the new hire ask questions without feeling like a burden. It does not replace a manager who checks in. Our view: build a single onboarding hub, make it answerable, and keep the human welcome personal.",
+  "top": "notion",
+  "topWhy": "Notion gives you one connected workspace for the onboarding plan, docs, and checklists, with Notion AI built in, so the new hire has a single place to start.",
+  "alts": [
+   "notebooklm",
+   "coda",
+   "claude"
+  ],
+  "how": [
+   "Write a 30-60-90 day plan with clear outcomes, and put it in one shared workspace.",
+   "Gather the key docs a new hire needs: team goals, how decisions get made, who to ask about what.",
+   "Load approved documents into a grounded notebook so the new hire can ask questions and get answers from your own material.",
+   "Use an assistant to turn long docs into a first-week reading list and short summaries, then check them for accuracy.",
+   "Schedule real check-ins at the end of week one, month one, and month three."
+  ],
+  "faq": [
+   [
+    "Can AI replace an onboarding buddy?",
+    "No. AI can answer questions from your docs, but belonging, context, and introductions come from people."
+   ],
+   [
+    "What should I give an AI tool during onboarding?",
+    "Only documents that are approved for that tool and current. Out-of-date docs produce confident, wrong answers."
+   ],
+   [
+    "What's the simplest setup?",
+    "One shared page with the plan and links, plus one assistant the new hire is already allowed to use."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "researching-a-market-or-competitor",
+  "title": "AI for researching a market or competitor",
+  "short": "Market and competitor research",
+  "intro": "Good research starts with a sharp question and ends with sources you can check. AI search tools are fast at gathering and summarizing, but they can be wrong or out of date, so the citations matter more than the summary. Our view: use a tool that shows its sources, verify the claims you plan to repeat, and write the conclusion yourself.",
+  "top": "perplexity",
+  "topWhy": "Perplexity searches the web and cites its sources, which makes it easy to check every claim before it goes into a decision or a deck.",
+  "alts": [
+   "chatgpt",
+   "gemini",
+   "notebooklm",
+   "elicit"
+  ],
+  "how": [
+   "Write down the decision the research is for and 3-5 specific questions.",
+   "Run each question through a cited search tool and open the sources for anything important.",
+   "Collect the best sources, reports, and your own notes in one place, then ask a grounded notebook to compare them.",
+   "For academic or evidence-heavy questions, use a research assistant that searches papers.",
+   "Summarize what you found, what you could not confirm, and what you would do next, in your own words."
+  ],
+  "faq": [
+   [
+    "Can I trust AI research summaries?",
+    "Not without checking. Open the sources, confirm numbers and dates, and treat anything without a source as a lead, not a fact."
+   ],
+   [
+    "Should I use AI on competitors' private information?",
+    "No. Stick to public sources and information you are allowed to use."
+   ],
+   [
+    "Which tool should I start with?",
+    "Start with one that cites sources. Add a document-grounded tool once you have a pile of material to compare."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "making-a-strategy-deck",
+  "title": "AI for making a strategy deck",
+  "short": "Making a strategy deck",
+  "intro": "A strategy deck is an argument, not a template. AI can get you from outline to decent slides quickly, but it cannot decide what your strategy is. Our view: write the storyline as plain sentences first, then let AI build and design the slides, and cut anything you can't defend.",
+  "top": "gamma",
+  "topWhy": "Gamma generates presentations from a prompt, so once your storyline is written you can get a full first draft of slides in one step and spend your time editing.",
+  "alts": [
+   "claude",
+   "beautiful-ai",
+   "plus-ai",
+   "pitch"
+  ],
+  "how": [
+   "Write the storyline as 8-12 sentences: the situation, the choice, why, and what you need from the audience.",
+   "Ask an assistant to challenge the storyline: what's missing, what's weakest, what a skeptic would ask.",
+   "Turn the storyline into a first-draft deck with a presentation tool.",
+   "Replace generic content with your real numbers and examples, and check every figure.",
+   "Cut slides until each one supports a single point in the storyline."
+  ],
+  "faq": [
+   [
+    "Can AI write my strategy?",
+    "No. It can pressure-test your thinking and speed up the slides, but the choices and trade-offs are yours."
+   ],
+   [
+    "Which tool if my organization uses PowerPoint or Google Slides?",
+    "Pick a tool that works inside the software you already use, so the deck stays in your normal format."
+   ],
+   [
+    "How do I avoid generic AI slides?",
+    "Start from your own storyline and data, not a one-line prompt, and edit hard."
+   ]
+  ],
+  "updated": "2026-10-15"
+ },
+ {
+  "slug": "managing-your-inbox-and-calendar",
+  "title": "AI for managing your inbox and calendar",
+  "short": "Inbox and calendar",
+  "intro": "Leaders lose hours to triage and scheduling. AI can sort, summarize, and draft email, and it can protect time on your calendar. It should not answer sensitive messages for you. Our view: let AI handle sorting and first drafts, guard your focus time automatically, and read anything important yourself.",
+  "top": "superhuman",
+  "topWhy": "Superhuman is a fast email client with AI drafting, summaries, and triage, which covers the biggest daily time sink for most leaders.",
+  "alts": [
+   "shortwave",
+   "reclaim",
+   "motion",
+   "microsoft-copilot"
+  ],
+  "how": [
+   "Decide what matters most in your inbox: people, topics, and response times.",
+   "Use AI summaries to scan long threads, and open the original for anything that needs a decision.",
+   "Let AI draft routine replies, then edit them so they sound like you before sending.",
+   "Use an AI calendar tool to protect focus time and schedule tasks around meetings.",
+   "Review the setup after two weeks and turn off anything that adds noise."
+  ],
+  "faq": [
+   [
+    "Should AI send email on my behalf?",
+    "Not automatically. Use drafts you review, especially for anything sensitive, personal, or about people."
+   ],
+   [
+    "Do I have to switch email clients?",
+    "Not necessarily. If your organization uses Microsoft 365, an assistant built into those apps may cover the basics."
+   ],
+   [
+    "Is my email data safe?",
+    "Check each tool's privacy and security terms and your organization's policy before connecting work accounts."
+   ]
+  ],
+  "updated": "2026-10-15"
+ }
+]
